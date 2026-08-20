@@ -1,25 +1,21 @@
-\# Bodyshop Project
+**Bodyshop Project**
 
-Sistema de gestión para talleres automotrices  
+__Sistema de gestión para talleres automotrices__
 
-Desarrollado por: \*\*Romeo Santiago Guevara\*\*
+Desarrollado por: **Romeo Santiago Guevara**
 
-Automotive Analytica (R) 
+Para: **Automotive Analytica®** 
 
 Ubicación: Ambato, Ecuador  
 
 
 
 \---
+## 📌 Descripción general
 
 
 
-\## 📌 Descripción general
-
-
-
-\*\*Bodyshop\*\* es una aplicación desarrollada en \*\*Microsoft Power Apps\*\* para administrar la operación de talleres automotrices, incluyendo:
-
+**Bodyshop** es una aplicación desarrollada en \*\*Microsoft Power Apps\*\* para administrar la operación de talleres automotrices, incluyendo:
 
 
 \- Gestión de empresas
