@@ -1,0 +1,6 @@
+psql -h bodyshop-pgsql-dev.postgres.database.azure.com -p 5432 -U adminpgsql -d postgres "sslmode=require"
+Pass: 100Cien@2026
+
+
+psql -h bodyshop-pgsql-dev.postgres.database.azure.com -p 5432 -U appuser -d postgres "sslmode=require"
+Pass:12345
