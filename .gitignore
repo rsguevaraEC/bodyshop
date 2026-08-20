@@ -1,0 +1,59 @@
+# ============================
+# BODYSHOP PROJECT - GITIGNORE
+# ============================
+
+# --- OneDrive Sync Files ---
+Desktop.ini
+Thumbs.db
+ehthumbs.db
+*.lnk
+~$*
+*.tmp
+*.temp
+*.bak
+*.old
+
+# Archivos de sincronización de OneDrive
+*.one
+*.onepkg
+*.onetoc2
+*.tmp
+*.ds_store
+
+# Carpetas internas de OneDrive
+OneDriveTemp/
+.sync/
+.sync.ffs_db
+
+# --- Power Apps ---
+# Archivos temporales o de empaquetado
+*.msapp.backup
+*.msapp.tmp
+*.msapp.zip
+
+# --- Windows / Cmder / Terminal ---
+*.log
+*.cache
+*.bak
+*.swp
+
+# --- Visual Studio Code ---
+.vscode/
+*.code-workspace
+
+# --- Python / Node (si en el futuro agregas scripts) ---
+__pycache__/
+node_modules/
+
+# --- Git ---
+# Evitar repositorios anidados
+.git/
+.gitignore~
+
+# --- Otros archivos que no deben subirse ---
+*.rar
+*.zip
+*.7z
+*.iso
+*.exe
+*.msi
