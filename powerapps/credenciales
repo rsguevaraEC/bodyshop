@@ -1,0 +1,5 @@
+Conexion Power APPS - Azure/PostgreSql
+Servidor: bodyshop-pgsql-dev.postgres.database.azure.com
+Puerto: 5432
+Usuario: adminpgsql
+Contraseña: [la configurada en Azure]
